@@ -7,7 +7,7 @@ phases:
       - mvn clean package
   post_build:
     commands:
-      - echo Build completed successfully
+      - echo Build completed successfullyyyyy
 artifacts:
   files:
     - target/pm-restulful.jar
